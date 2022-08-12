@@ -3,7 +3,7 @@
 # About
 I worked at Columbia Business School teaching Python to MBA candidates in order to prepare business leaders for today's increasingly code-intensive workplace. Specifically, I designed and created all course content and materials, set examination questions, and taught the classes.
 
-This course can be completed in ~10 hours and is targeted at complete beginners to both Python and programming in general. If you fall into this group and are interested in learning Python, then this course is for you! You can find all the course materials in the GitHub link above:
+This course can be completed in ~10 hours and is targeted at complete beginners to both Python and programming in general. If you fall into this group and are interested in learning Python, then this course is for you! You can find all the course materials here.
 <li>Presentation slides: Teaches concepts
 <li>Jupyter notebooks: Application of concepts through questions
 
